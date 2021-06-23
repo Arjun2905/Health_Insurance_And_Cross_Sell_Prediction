@@ -1,6 +1,6 @@
 # Health_Insurance_Cross_Sell_Prediction
 <h4>Final Project of my Data Analytics training at ShapeAI .</h4>
-<h4>To open main code file click on rendered display blob 💻.</h4>
+<h4>To open Jupyter Notebook click on rendered display blob 📃.</h4>
 <h2>Context :</h4>
 My client is an Insurance company that has provided Health Insurance to its customers now they need my help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.<br>
 <br>
